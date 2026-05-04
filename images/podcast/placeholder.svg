@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1e4a"/>
+      <stop offset="100%" stop-color="#1a2860"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="230" r="110" fill="white" opacity="0.95"/>
+  <path d="M260 210 h20 v40 h-20 z M290 195 h20 v70 h-20 z M320 180 h20 v100 h-20 z M350 195 h20 v70 h-20 z" fill="#1a4fd6"/>
+  <text x="300" y="400" text-anchor="middle" fill="white" font-family="sans-serif" font-size="48" font-weight="700">Bit-a-Bit</text>
+  <text x="300" y="450" text-anchor="middle" fill="#7BB6FF" font-family="sans-serif" font-size="22">PODCAST · DAH</text>
+</svg>
